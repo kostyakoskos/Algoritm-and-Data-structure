@@ -1,0 +1,25 @@
+﻿  main.cpp
+d:\term 3\algoritm and data structure\dejstra\dejstra\main.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\term 3\algoritm and data structure\dejstra\dejstra\main.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\term 3\algoritm and data structure\dejstra\dejstra\main.cpp(13): warning C4309: 'initializing': truncation of constant value
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(239): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  d:\term 3\algoritm and data structure\dejstra\dejstra\main.cpp(28): note: see reference to function template instantiation 'std::pair<int,int>::pair<__int64,__int64,0>(std::pair<__int64,__int64> &&) noexcept' being compiled
+  d:\term 3\algoritm and data structure\dejstra\dejstra\main.cpp(28): note: see reference to function template instantiation 'std::pair<int,int>::pair<__int64,__int64,0>(std::pair<__int64,__int64> &&) noexcept' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(240): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  Dejstra.vcxproj -> D:\Term 3\Algoritm and Data Structure\DEjstra\x64\Debug\Dejstra.exe

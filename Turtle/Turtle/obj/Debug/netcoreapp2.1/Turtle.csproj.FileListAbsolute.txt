@@ -1,0 +1,22 @@
+D:\Term 3\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.deps.json
+D:\Term 3\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.runtimeconfig.json
+D:\Term 3\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.runtimeconfig.dev.json
+D:\Term 3\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.dll
+D:\Term 3\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.pdb
+D:\Term 3\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.csprojAssemblyReference.cache
+D:\Term 3\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.csproj.CoreCompileInputs.cache
+D:\Term 3\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.AssemblyInfoInputs.cache
+D:\Term 3\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.AssemblyInfo.cs
+D:\Term 3\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.dll
+D:\Term 3\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.pdb
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.deps.json
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.runtimeconfig.json
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.runtimeconfig.dev.json
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.dll
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\bin\Debug\netcoreapp2.1\Turtle.pdb
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.csprojAssemblyReference.cache
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.csproj.CoreCompileInputs.cache
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.AssemblyInfoInputs.cache
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.AssemblyInfo.cs
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.dll
+D:\Term 3\Algoritm and Data Structure\Turtle\Turtle\obj\Debug\netcoreapp2.1\Turtle.pdb

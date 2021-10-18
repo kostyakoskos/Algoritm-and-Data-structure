@@ -1,0 +1,11 @@
+D:\Term 3\Frog\Frog\Frog\bin\Debug\netcoreapp2.1\Frog.deps.json
+D:\Term 3\Frog\Frog\Frog\bin\Debug\netcoreapp2.1\Frog.runtimeconfig.json
+D:\Term 3\Frog\Frog\Frog\bin\Debug\netcoreapp2.1\Frog.runtimeconfig.dev.json
+D:\Term 3\Frog\Frog\Frog\bin\Debug\netcoreapp2.1\Frog.dll
+D:\Term 3\Frog\Frog\Frog\bin\Debug\netcoreapp2.1\Frog.pdb
+D:\Term 3\Frog\Frog\Frog\obj\Debug\netcoreapp2.1\Frog.csprojAssemblyReference.cache
+D:\Term 3\Frog\Frog\Frog\obj\Debug\netcoreapp2.1\Frog.csproj.CoreCompileInputs.cache
+D:\Term 3\Frog\Frog\Frog\obj\Debug\netcoreapp2.1\Frog.AssemblyInfoInputs.cache
+D:\Term 3\Frog\Frog\Frog\obj\Debug\netcoreapp2.1\Frog.AssemblyInfo.cs
+D:\Term 3\Frog\Frog\Frog\obj\Debug\netcoreapp2.1\Frog.dll
+D:\Term 3\Frog\Frog\Frog\obj\Debug\netcoreapp2.1\Frog.pdb

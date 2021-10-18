@@ -1,0 +1,17 @@
+D:\cs\BinaryTree\bin\Debug\BinaryTree.exe
+D:\cs\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\cs\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+D:\cs\BinaryTree\obj\Debug\BinaryTree.exe
+D:\cs\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\visual 2\BST\bin\Debug\BinaryTree.exe
+D:\visual 2\BST\bin\Debug\BinaryTree.pdb
+D:\visual 2\BST\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\visual 2\BST\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\visual 2\BST\obj\Debug\BinaryTree.exe
+D:\visual 2\BST\obj\Debug\BinaryTree.pdb
+D:\Term 3\Algoritm and Data Structure\BST\bin\Debug\BinaryTree.exe
+D:\Term 3\Algoritm and Data Structure\BST\bin\Debug\BinaryTree.pdb
+D:\Term 3\Algoritm and Data Structure\BST\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\Term 3\Algoritm and Data Structure\BST\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Term 3\Algoritm and Data Structure\BST\obj\Debug\BinaryTree.exe
+D:\Term 3\Algoritm and Data Structure\BST\obj\Debug\BinaryTree.pdb
